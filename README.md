@@ -42,6 +42,6 @@
 <h2 align='center'>⚔ Here's a <i>Life Lesson</i> Quote ⚔<h2>
 
 <br />  
-<img align= "center" alt="Quote" src="https://github.com/IAmhedi/IAmhedi/blob/main/Assets/haikyuu.gif" width="100%" height="300">
+<img align= "center" alt="Quote" src="https://github.com/IAmhedi/IAmhedi/blob/main/Assets/office.jpg" width="100%" height="300">
 
 [linkedin]: https://www.linkedin.com/in/hedi-mineoui-a05242201/
