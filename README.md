@@ -44,15 +44,13 @@
 <img alt="repo" src ="https://badges.pufler.dev/repos/IAmhedi">
 <img alt="commit" src="https://badges.pufler.dev/commits/monthly/IAmhedi">
 </p>
-<p align="center">
-<a href="https://twitter.com/krniya_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/IAmhedi_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@krniya_"></a>
-</p>
+
 
 <br />
 
-<h2 align='center'>⚔ Here's a <i>Otaku</i> Quote ⚔<h2>
+<h2 align='center'>⚔ Here's a <i>Life Lesson</i> Quote ⚔<h2>
 
 <br />  
-<img align= "center" alt="But You can fly higher!" src="https://github.com/krniya/krniya/blob/main/Assets/haikyuu.gif" width="100%" height="300">
+<img align= "center" alt="Quote" src="https://github.com/IAmhedi/IAmhedi/blob/main/Assets/haikyuu.gif" width="100%" height="300">
 
 [linkedin]: https://www.linkedin.com/in/hedi-mineoui-a05242201/
