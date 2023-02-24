@@ -1,11 +1,12 @@
-<img align= "center" alt="Full Control Counter" src="https://github.com/krniya/krniya/blob/main/Assets/shiroe.gif" width="100%" height="200">
+<img align= "center" alt="Full Control Counter" src="https://github.com/IAmhedi/IAmhedi/blob/main/Assets/shiroe.gif" width="100%" height="200">
 
 <div align="center">
-<h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> <i>I am Nitish Kumar aka NiYa</i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h2>
+<h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> <i>I am Hedi Mineoui</i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"></h2>
 
-<h2><i>A Software Engineer 👨‍💻, lifelong learner 🧠 and ML Enthusiast 🤖</i></h2>
+<h2><i>A Data Engineer 👨‍💻, lifelong learner 🧠 and Data Wizard 🧙</i></h2>
 </div>
-<img align="right" alt="L for Light" src="https://github.com/krniya/krniya/blob/main/Assets/l.gif" width="300" height="250" />
+
+<iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>
 
 -   🔭 _I’m currently working on_ **Blockchain 🔗 Technology 🪙**
 -   🌱 _I’m currently learning_ **High Level Design↗️ & Low Level Design↘️**
