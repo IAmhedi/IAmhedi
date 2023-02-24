@@ -36,16 +36,16 @@
   </a>
 <hr>
 
-<img align="center" height=175 width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=krniya&border=ffffff&ring=ed6161&fire=f03737" alt="GitHub Streak" />
+<img align="center" height=175 width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=IAmhedi&border=ffffff&ring=ed6161&fire=f03737" alt="GitHub Streak" />
 
 <p align="center">
-<img alt="Visitor Counter" src="https://visitor-badge.glitch.me/badge?page_id=krniya.krniya">
-<img alt="Year badge" src="https://badges.pufler.dev/years/krniya">
-<img alt="repo" src ="https://badges.pufler.dev/repos/krniya">
-<img alt="commit" src="https://badges.pufler.dev/commits/monthly/krniya">
+<img alt="Visitor Counter" src="https://visitor-badge.glitch.me/badge?page_id=IAmhedi.IAmhedi">
+<img alt="Year badge" src="https://badges.pufler.dev/years/IAmhedi">
+<img alt="repo" src ="https://badges.pufler.dev/repos/IAmhedi">
+<img alt="commit" src="https://badges.pufler.dev/commits/monthly/IAmhedi">
 </p>
 <p align="center">
-<a href="https://twitter.com/krniya_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/krniya_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@krniya_"></a>
+<a href="https://twitter.com/krniya_"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/IAmhedi_?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@krniya_"></a>
 </p>
 
 <br />
