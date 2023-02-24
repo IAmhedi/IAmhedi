@@ -68,4 +68,4 @@
 <br />  
 <img align= "center" alt="But You can fly higher!" src="https://github.com/krniya/krniya/blob/main/Assets/haikyuu.gif" width="100%" height="300">
 
-[linkedin]: (https://www.linkedin.com/in/hedi-mineoui-a05242201/)
+[linkedin]: https://www.linkedin.com/in/hedi-mineoui-a05242201/
