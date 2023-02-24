@@ -14,11 +14,7 @@
 
 <br />
 
-### *Find me on Web*🕸:
-
-[<img align="left" alt="hedi | LinkedIn" width="22px" src="https://github.com/IAmhedi/IAmhedi/blob/main/Assets/linkedin.png" />][linkedin]
-
-
+### *Contact me*🕸:
 
 <p align="center">
 <br>
