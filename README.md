@@ -5,7 +5,7 @@
 
 <h2><i>A Data Engineer 👨‍💻, lifelong learner 🧠 and Data Wizard 🧙</i></h2>
 </div>
-<img align="right" alt="data" src="https://github.com/IAmhedi/IAmhedi/blob/main/Assets/data.gif" width="300" height="250" />
+<img align="right" alt="data" src="https://github.com/IAmhedi/IAmhedi/blob/main/Assets/data.gif" width="480" height="343" />
 
 -   🔭 _I’m currently working on_ **Blockchain 🔗 Technology 🪙**
 -   🌱 _I’m currently learning_ **High Level Design↗️ & Low Level Design↘️**
