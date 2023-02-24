@@ -7,10 +7,10 @@
 </div>
 <img align="right" alt="data" src="https://github.com/IAmhedi/IAmhedi/blob/main/Assets/data.gif" width="400" height="343" />
 
--   🔭 _I’m currently working on_ **Blockchain 🔗 Technology 🪙**
--   🌱 _I’m currently learning_ **High Level Design↗️ & Low Level Design↘️**
+-   🔭 _I’m currently working on_ **Data Projects.**
+-   🎤 _Quote_ **Yesterday is history, the future is a mystery, and the today is a gift, that's why it's called the present**
 -   🥅 _2022 Goals:_ **Contribute more to Open Source projects👐**
--   ⚡ _Fun fact:_ **I love graphics designing🎨, Gaming🎮 & am a *Otaku*⚔**
+-   ⚡ _Fun fact:_ **I like 🎮🕹️Gaming🎮🕹️ & 🎬🍿Movies🎬🍿**
 
 <br />
 
