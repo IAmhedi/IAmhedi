@@ -14,7 +14,7 @@
 
 <br />
 
-### *Contact me*🕸:
+### *Reach me*🖐:
 
 <p align="center">
 <br>
