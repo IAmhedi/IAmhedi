@@ -33,7 +33,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=IAmhedi&show_icons=true&include_all_commits=true&theme=radical&count_private=true">
 </a>
 <a href="https://github.com/IAmhedi/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pratham31&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=IAmhedi&layout=compact&theme=radical" />
 </a>
 
 
