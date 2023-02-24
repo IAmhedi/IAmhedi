@@ -5,8 +5,7 @@
 
 <h2><i>A Data Engineer 👨‍💻, lifelong learner 🧠 and Data Wizard 🧙</i></h2>
 </div>
-
-<iframe src="https://giphy.com/embed/xT9C25UNTwfZuk85WP" width="480" height="343" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Giflytics-gif-jazminantoinette-giflytics-xT9C25UNTwfZuk85WP">via GIPHY</a></p>
+<img align="right" alt="L for Light" src="https://github.com/krniya/krniya/blob/main/Assets/l.gif" width="300" height="250" />
 
 -   🔭 _I’m currently working on_ **Blockchain 🔗 Technology 🪙**
 -   🌱 _I’m currently learning_ **High Level Design↗️ & Low Level Design↘️**
