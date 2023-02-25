@@ -18,7 +18,7 @@
 
 <p align="center">
 <br>
-<a  href="https://www.linkedin.com/in/[hedi-mineoui](https://www.linkedin.com/in/hedi-mineoui-a05242201/)/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a  href="https://www.linkedin.com/in/hedi-mineoui-a05242201//"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="mailto:mineouihedi@gmail.com?subject=Hi%20Hedi"><img src="https://img.shields.io/badge/Mail-%231877F2.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/></a>&nbsp;
 
 
