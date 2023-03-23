@@ -5,7 +5,7 @@
 
 <h2><i>A Data Engineer 👨‍💻, lifelong learner 🧠 and Data Wizard 🧙</i></h2>
 </div>
-<img align="right" alt="data" src="https://github.com/IAmhedi/IAmhedi/blob/main/Assets/data.gif" width="400" height="343" />
+<img align="right" alt="data" src="https://github.com/IAmhedi/IAmhedi/blob/main/Assets/data.gif" width="320" height="280" />
 
 -   🔭 _I’m currently working on_ **Data Projects.**
 -   🎤 _Quote_ **Yesterday is history, the future is a mystery, and the today is a gift, that's why it's called the present**
