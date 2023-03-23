@@ -1,4 +1,4 @@
-<img align= "center" alt="Full Control Counter" src="https://github.com/IAmhedi/IAmhedi/blob/main/Assets/github-header-image.png" width="100%" height="200">
+<img align= "center" alt="Full Control Counter" src="https://github.com/IAmhedi/IAmhedi/blob/main/Assets/github-header-image (1).png" width="100%" height="200">
 
 <div align="center">
 <h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px"> <i>I am Hedi Mineoui</i><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="25"></h2>
