@@ -9,7 +9,7 @@
 
 -   🔭 _I’m currently working on_ **Data Projects.**
 -   🎤 _Quote_ **Yesterday is history, the future is a mystery, and the today is a gift, that's why it's called the present**
--   🥅 _2023 Goals:_ **Contribute more to Open Source projects👐**
+-   🥅 _2024 Goals:_ **Contribute more to Open Source projects👐**
 -   ⚡ _Fun fact:_ **I like 🎮🕹️Gaming🎮🕹️ & 🎬🍿Movies🎬🍿**
 
 <br />
